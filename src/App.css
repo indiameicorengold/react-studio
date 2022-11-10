@@ -5,5 +5,17 @@
 }
 
 .BakeryItem {
-  
+
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+img {
+    height:50%;
+    width: 50%;
 }
